@@ -1,0 +1,6 @@
+# SupplyShield Python Requirements
+# Core agent logic and safety checks use standard library (sqlite3, json, re, unittest, time, enum, dataclasses)
+# Optional libraries for Streamlit dashboard and testing:
+streamlit>=1.35.0
+pytest>=8.0.0
+google-genai>=2.4.0

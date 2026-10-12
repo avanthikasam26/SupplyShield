@@ -1,0 +1,6 @@
+{
+  "name": "SupplyShield — Autonomous AI Procurement Agent",
+  "description": "Autonomous AI procurement agent that safely mitigates factory inventory shortages using explicit state machines, RAG procurement policies, hard guardrails, and human-in-the-loop approvals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
